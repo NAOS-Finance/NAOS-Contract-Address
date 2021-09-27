@@ -1,0 +1,16 @@
+{
+    "Formation": {
+        "Formation": "0x9Ddceb30515eD297C1B72Ff8F848F254104b7A12",
+        "YearnVaultAdapter": "0x8394BB87481046C1ec84C39689D402c00189df43",
+        "Transmuter": "0x3ED6355Ad74605c0b09415d6B0b29a294Fd31265",
+        "StakingPools": "0x99E4eA9eF6bf396C49B35FF9478EbB8890aEF581"
+
+    },
+    "Token": {
+        "NAOS": "0x4a615bb7166210cce20e6642a6f8fb5d4d044496",
+        "nUSD": "0x1BEf2e5DE862034Fb0ed456DF59d29Ecadc9934C",
+        "NAOS-ETH Uniswap LP Token": "0x9b577e849b128ee1a69144b218e809b8bb98c35d",
+        "NAOS-ETH Sushiswap LP Token": "0x82EbCD936C9E938704b65027850E42393F8BC4d4",
+        "nUSD-3CRV LP Token": "0x67d9eAe741944D4402eB0D1cB3bC3a168EC1764c"
+    }
+}
