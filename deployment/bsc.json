@@ -1,6 +1,20 @@
 {
+    "Formation": {
+        "Formation": "0x9591Ff9c5070107000155Ff6C5CE049aa1443Dd3",
+        "FormationAlpacaVaultAdapter": "0x640848400fC1CBAf9E4a1Ed18d1bD3e2b16D1dE2",
+        "Transmuter": "0xB9ecE39B356D5C0842301B42A716e4385617c871",
+        "TransmuterAlpacaVaultAdapter": "0x4ca1A19d108b84F6F671Ffe3555e7743C5ED6a2C",
+        "StakingPools": "0x6EbC2C41c1e29A5506B86b758B6c16DD5bbCF7d1"
+    },
+    "Galaxy": {
+        "BoostPool": "0x3Dcd32Dd2b225749Aa830Ca3B4F2411BFEB03DB4",
+        "BetaInsurancePool": "0xcD2e1ebFc804dd867ca052133Fa70d9dB6d86ab7",
+        "BetaAlpacaVaultAdapter": "0xAB806724B03D0F4aEE891976fA0Eee77bC22739b"
+    },
     "Token": {
         "NAOS": "0x758d08864fb6cce3062667225ca10b8f00496cc2",
-        "NAOS-BNB Pancake LP Token": "0xcaa662ad41a662b81be2aea5d59ec0697628665f"
+        "nBUSD": "0xF71b4b8AA71F7923c94C7e20B8a434a4d9368eee",
+        "NAOS-BNB Pancake LP Token": "0xcaa662ad41a662b81be2aea5d59ec0697628665f",
+        "nBUSD/3EPS LP Token": "0xAa7dFcFa0F90213AFF443a7a27C32D386c1f4786"
     }
 }
