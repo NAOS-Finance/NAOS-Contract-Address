@@ -7,6 +7,13 @@
         "StakingPools": "0x6EbC2C41c1e29A5506B86b758B6c16DD5bbCF7d1"
     },
     "Galaxy": {
+        "Alpha Pool": {
+            "Corl": {
+                "GalaxyStakingPool": "0x5fD1476FE93D2d6bD524e181ae156DA4aF00f092",
+                "Reserve": "0x9eEd257f7d5Bed450BC2B3562B24113C9fbD848b",
+                "Tranche": "0x2e07a30Ba047058ed1c360Cbf00CfCb61B07A1aA"
+            }
+        },
         "BoostPool": "0x3Dcd32Dd2b225749Aa830Ca3B4F2411BFEB03DB4",
         "BetaInsurancePool": "0xcD2e1ebFc804dd867ca052133Fa70d9dB6d86ab7",
         "BetaAlpacaVaultAdapter": "0xAB806724B03D0F4aEE891976fA0Eee77bC22739b"
